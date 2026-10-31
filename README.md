@@ -1,0 +1,28 @@
+# Ailinna Zhang
+
+I work across data science, software development, and commercial analysis. My projects connect biomedical research, practical collaboration tools, and data workflows that support decisions.
+
+## Selected projects
+
+| Project | What to explore | Stack |
+| --- | --- | --- |
+| [Lung Cancer Recurrence ML](https://github.com/Ailinnastar/luad-recurrence-metastasis) | Public GEO integration, cross-cohort evaluation, and an interactive research platform exploring future clinician decision support | R, Shiny, Python |
+| [TaskPilot: AI Communication Platform](https://github.com/Ailinnastar/security-enhanced-platform) | Real-time chat, workspace access, meeting notes, optional AI summaries, and tasks | React, Node.js, Express, Socket.IO, SQLite |
+| [E-commerce Product Matching](https://github.com/Ailinnastar/ecommerce-analytics-demo) | Reviewed scoring functions from the original retail matcher, alongside a separate synthetic-data price-comparison demo | Python, RapidFuzz |
+| [League of Legends Analysis](https://github.com/Ailinnastar/LeagueOfLegends) | An analysis site covering data cleaning, missingness, prediction, and fairness | Python, data science |
+
+## Explore the work
+
+- [LUAD analysis and report](https://ailinnastar.github.io/luad-recurrence-metastasis/)
+- [LUAD interactive research platform](https://elenna-shine-shiny.shinyapps.io/shiny_recurrence_app/)
+- [League of Legends analysis website](https://ailinnastar.github.io/LeagueOfLegends/)
+- [Portfolio website source](https://github.com/Ailinnastar/Portfolio)
+- [日本語のプロジェクト紹介](RECRUITER_JA.md)
+
+## How to read these repositories
+
+Project READMEs describe setup, scope, and known limitations. University and team-project materials retain their original attributions. The e-commerce repository distinguishes extracted original scoring code from a new demo using fictional records; work spreadsheets and employer deliverables are excluded. The clinical research platform is a prototype, not a clinically validated product.
+
+## Areas of interest
+
+Applied machine learning, bioinformatics, data engineering, full-stack applications, and analytics for business decisions.
