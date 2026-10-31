@@ -8,6 +8,7 @@ I work across data science, software development, and commercial analysis. My pr
 | --- | --- | --- |
 | [Lung Cancer Recurrence ML](https://github.com/Ailinnastar/luad-recurrence-metastasis) | Public GEO integration, cross-cohort evaluation, and an interactive research platform exploring future clinician decision support | R, Shiny, Python |
 | [TaskPilot: AI Communication Platform](https://github.com/Ailinnastar/security-enhanced-platform) | Real-time chat, workspace access, meeting notes, optional AI summaries, and tasks | React, Node.js, Express, Socket.IO, SQLite |
+| [Virtual Scroll Access System (VSAS)](https://github.com/Ailinnastar/virtual-scroll-access-system) | Team-built document library with accounts, uploads, favourites, administration, and activity records | Java 17, Gradle, JUnit, Docker |
 | [E-commerce Product Matching](https://github.com/Ailinnastar/ecommerce-analytics-demo) | Reviewed scoring functions from the original retail matcher, alongside a separate synthetic-data price-comparison demo | Python, RapidFuzz |
 | [League of Legends Analysis](https://github.com/Ailinnastar/LeagueOfLegends) | An analysis site covering data cleaning, missingness, prediction, and fairness | Python, data science |
 | [MRI Fat and Water Separation](https://github.com/Ailinnastar/mri-fat-water-separation) | Multi-echo signal simulation, multi-start fitting, and PDFF/R2* mapping code; no subject scans included | MATLAB |

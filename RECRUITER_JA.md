@@ -15,6 +15,12 @@ ReactとNode.jsを用いたグループ共同作業向けアプリです。認�
 
 - コード: https://github.com/Ailinnastar/security-enhanced-platform
 
+## Virtual Scroll Access System（SOFT2412のチームプロジェクト）
+
+Java 17による文書共有アプリです。アカウント管理、アップロード・ダウンロード、お気に入り、管理者機能、操作記録を備えています。A2-T13-88の共同制作物であり、単独開発ではありません。公開用コピーでは授業資料、非公開の議事録、既存の利用者データを除き、Docker起動方法と無料デモ用のデプロイ設定を追加しています。
+
+- コード: https://github.com/Ailinnastar/virtual-scroll-access-system
+
 ## EC商品照合・価格比較デモ
 
 元の商品照合コードから、商品コレクションの解析と候補スコアリングの関数を抽出しています。別途、商品名の正規化、要確認フラグ、通貨換算後の価格比較を架空データで確認できるデモを用意しています。元の業務用Excelや顧客向け資料は含みません。
