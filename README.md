@@ -15,7 +15,7 @@ Explore **8 projects**, including **2 live collaboration and document-sharing ap
 | [League of Legends Analysis](https://github.com/Ailinnastar/LeagueOfLegends) | Published analysis of **128,064 raw records** across **22 patches**, covering cleaning, prediction and fairness | Python, data science |
 | [MRI Fat and Water Separation](https://github.com/Ailinnastar/mri-fat-water-separation) | Multi-echo signal simulation, multi-start fitting, and PDFF/R2* mapping with automated MATLAB simulation checks | MATLAB |
 | [Protein Subcellular Localisation](https://github.com/Ailinnastar/protein-subcellular-localization) | Sequence-derived features and ensemble learning for **5 localisation classes**, with automated pipeline checks | Python, Biopython, scikit-learn |
-| [Autonomous Maze Robot](https://github.com/Ailinnastar/autonomous-maze-robot) | Navigation logic combining **3 infrared sensing channels** and **2 continuous-rotation servos**, with host-side control checks | Arduino C++ |
+| [Autonomous Maze Robot](https://github.com/Ailinnastar/autonomous-maze-robot) | Team completed a maze with a physical robot using **3 infrared channels**, **2 servos**, and loop recovery backed by a **32-action history** | Arduino C++ |
 
 ## Explore the work
 
