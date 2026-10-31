@@ -10,6 +10,8 @@ I work across data science, software development, and commercial analysis. My pr
 | [TaskPilot: AI Communication Platform](https://github.com/Ailinnastar/security-enhanced-platform) | Real-time chat, workspace access, meeting notes, optional AI summaries, and tasks | React, Node.js, Express, Socket.IO, SQLite |
 | [E-commerce Product Matching](https://github.com/Ailinnastar/ecommerce-analytics-demo) | Reviewed scoring functions from the original retail matcher, alongside a separate synthetic-data price-comparison demo | Python, RapidFuzz |
 | [League of Legends Analysis](https://github.com/Ailinnastar/LeagueOfLegends) | An analysis site covering data cleaning, missingness, prediction, and fairness | Python, data science |
+| [MRI Fat and Water Separation](https://github.com/Ailinnastar/mri-fat-water-separation) | Multi-echo signal simulation, multi-start fitting, and PDFF/R2* mapping code; no subject scans included | MATLAB |
+| [Autonomous Maze Robot](https://github.com/Ailinnastar/autonomous-maze-robot) | Recovered development baseline for infrared sensing and servo navigation, with host-side control checks | Arduino C++ |
 
 ## Explore the work
 
@@ -22,6 +24,8 @@ I work across data science, software development, and commercial analysis. My pr
 ## How to read these repositories
 
 Project READMEs describe setup, scope, and known limitations. University and team-project materials retain their original attributions. The e-commerce repository distinguishes extracted original scoring code from a new demo using fictional records; work spreadsheets and employer deliverables are excluded. The clinical research platform is a prototype, not a clinically validated product.
+
+The robot repository contains a recovered development snapshot, not a verified final submission or hardware benchmark. MRI source is shared without DICOM scans or reports. Confidential employer work, including KPMG and Oliver Wyman projects, is excluded from this collection.
 
 ## Areas of interest
 

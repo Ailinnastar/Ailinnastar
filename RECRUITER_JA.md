@@ -29,3 +29,17 @@ ReactとNode.jsを用いたグループ共同作業向けアプリです。認�
 - 分析サイト: https://ailinnastar.github.io/LeagueOfLegends/
 
 GitHubプロフィール: https://github.com/Ailinnastar
+
+## MRIにおける脂肪・水分分離
+
+MATLABを用いて、複数エコーの信号モデル、脂肪・水分の曖昧性、複数初期値からの最適化、PDFF・R2*推定を扱う大学の画像解析プロジェクトです。公開内容はソースコードと合成信号の実験で、被験者スキャンやDICOMデータは含みません。
+
+- コード: https://github.com/Ailinnastar/mri-fat-water-separation
+
+## 自律迷路走行ロボット
+
+赤外線センサーと連続回転サーボを用いたArduino C++の開発途中版です。元の作業履歴から復元したコードであり、最終提出版とは確認できていません。分岐処理と停止動作をホスト環境で確認するテストを付けています。実機での走行時間や最終版の機能を保証するものではありません。
+
+- コード: https://github.com/Ailinnastar/autonomous-maze-robot
+
+KPMG、Oliver Wymanを含む勤務先・顧客の機密情報は、この公開プロジェクト集に含めていません。
